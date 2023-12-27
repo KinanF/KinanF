@@ -2,7 +2,7 @@
 - 👀 I’m interested in NFT creation
 - 🌱 I’m currently learning how to verify my NFTs
 - 💞️ I’m looking to collaborate on art creation
-- 📫 Twitter @KinanFarhoud
+- 📫 Twitter @KinanNFT
 
 <!---
 KinanF/KinanF is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
